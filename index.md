@@ -1,0 +1,1 @@
+# Welcome to Etienne's website for CSE 110 Lab 1!
