@@ -38,3 +38,17 @@ I enjoy learning about a variety of subjects, here's a short subset of the inter
 - [ ] Coding a Simple Multiplayer Game from start to finish
 - [ ] Making a useful Arduino or Raspberry Pi project
 - [ ] Etc...
+
+## Code Example
+
+One day I woke up and learned to write this piece of code:
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!" << std::endl;
+    return 0;
+}
+```
+And then I said:
+> Wow, what a neat piece of code!
