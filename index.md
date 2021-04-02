@@ -16,7 +16,7 @@ Here is my current GitHub profile picture:
 
 ![My current profile picture](./profile_pic.png)
 
-Here are all the files in this GitHub repository:
+Here are some of the files in this GitHub repository:
 - [This](./README.md) is a relative link to README.txt
 - [This](./index.md) is a relative link to index.md
 - [This](./.gitignore) is a relative link to .gitignore
